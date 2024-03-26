@@ -1,0 +1,22 @@
+While it was stated in class, that we couldn't have defined testcases for this program, here are some of the words I tested.
+
+toads
+names
+tears
+rhino
+spots
+stump
+faded
+choke
+state
+slaps
+array
+roots
+bumps
+prick
+jeans
+and many many more on scrap paper I have lost.
+
+I also reduced the number of attempts to test if running out of attempts printed the appropriate message.
+
+By the way, the first word the program generated was "himbo".  Cathy was amused.
