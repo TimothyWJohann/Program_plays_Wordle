@@ -4,9 +4,9 @@ The user replies with "-" if the letter is present, but not in the correct locat
 with "!" if the letter is in the correct location.
 
 Example:  
-Target word = "lofts"
-Program guess = "lotus"
-User response = "!!-x!"
+* Target word = "lofts"
+* Program guess = "lotus"
+* User response = "!!-x!"
 
 
 project1Main.cc is the main program file.
